@@ -1,3 +1,4 @@
+"""Scrapes a YouTube URL containing a list= parameter, and returns all the videos in that playlist"""
 import re
 import urllib.request
 import urllib.error
